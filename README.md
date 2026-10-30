@@ -4,6 +4,8 @@ One Campus. Five Players. One Mission.
 
 A cooperative browser puzzle game for 2–5 players. Create or join a room, share clues, and restore three campus systems before the 180-second reserve runs out.
 
+Live Demo: https://campus-blackout-signal-squad.onrender.com/
+
 ## Run locally
 
 Requires Node.js 20 or newer. No package installation is needed.
